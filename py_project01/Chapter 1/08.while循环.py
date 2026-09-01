@@ -44,8 +44,3 @@ while 条件表达式:
 #     total += num
 #     num += 2
 # print(f"和为{total}")
-
-
-
-
-
