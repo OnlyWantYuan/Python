@@ -17,7 +17,7 @@
 # print(isinstance(num,bool)) # False
 
 # 字符串的三种定义:
-print("Hellp world") # 双引号
+print("Hello world") # 双引号
 print('Hello world') # 单引号
 print("""尊敬的客户:
 感谢您选择我们公司的产品
