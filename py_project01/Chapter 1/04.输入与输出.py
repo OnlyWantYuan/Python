@@ -21,7 +21,3 @@ print(f"取款成功,当前余额：{money - int(num)}") # int(..)将其他类�
 s1 = input("请输入您的第一个数字:")
 s2 = input("请输入您的第二个数字:")
 print(f"俩数之和为:{int(s1) + int(s2)}")
-
-
-
-
