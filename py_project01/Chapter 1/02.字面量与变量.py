@@ -35,4 +35,3 @@ a,b,c = 100,200,300
 print(a,b,c)
 c,a,b = a,b,c
 print(a,b,c)
-
